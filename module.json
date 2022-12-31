@@ -1,25 +1,12 @@
 {
-  "title": "Token Z",
-  "description": "Easly manage the Z-Index of tokens",
-  "version": "0.8",
+  "id": "weather-hexes",
+  "title": "Hex Weather",
+  "description": "Weather Hexes",
+  "version": "1.0",
   "authors": [
     {
       "name": "clyonsdev",
       "url": "https://github.com/CLyonsDev/",
-      "flags": {}
-    }
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json",
-      "flags": {}
-    },
-    {
-      "lang": "ja",
-      "name": "日本語",
-      "path": "languages/ja.json",
       "flags": {}
     }
   ],
